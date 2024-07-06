@@ -129,6 +129,3 @@ console.log(university.findStudentById(1));
 console.log(university.findProfessorById(1));
 console.log(university.findCourseById(1));
 console.log(university.findDepartmentById(1));
-
-
-
